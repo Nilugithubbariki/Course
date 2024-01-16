@@ -372,4 +372,10 @@ body {
   .userStyle {
     width: 1326px;
   }
+  .rightdiv {
+    padding: 20px;
+  }
+  .leftdiv: {
+    padding: 20px;
+  }
 }
